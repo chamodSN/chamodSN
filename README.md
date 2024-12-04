@@ -52,25 +52,25 @@
 
 - Programming Languages
 
-<p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a></p>
+<p align="center"><a href="https://www.cprogramming.com/" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a><a href="https://www.java.com" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a><a href="https://www.php.net" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a></p>
 
 - Frontend Development
 
-<p align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a></p>
+<p align="center"><a href="https://getbootstrap.com" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>  <a href="https://www.w3schools.com/css/" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a><a href="https://www.w3.org/html/" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a></p>
 
 - Database
 
-<p align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>  </p>
+<p align="center"><a href="https://www.mysql.com/" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>  </p>
 
 - Software  and Tools
-<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>   </p>
+<p align="center"><a href="https://www.figma.com/" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a>
+<a href="https://www.arduino.cc/" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a>   <a href="https://git-scm.com/" style="margin: 0 10px;" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>   </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/chamod nethmina" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamod nethmina" height="50" width="50" /></a>
-<a href="https://fb.com/chamod nethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamod nethmina" height="50" width="50" /></a>
-<a href="https://instagram.com/chamodsnethmina" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="chamodsnethmina" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/chamod nethmina" style="margin: 0 10px;" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamod nethmina" height="50" width="50" /></a>
+<a href="https://fb.com/chamod nethmina" style="margin: 0 10px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamod nethmina" height="50" width="50" /></a>
+<a href="https://instagram.com/chamodsnethmina" style="margin: 0 10px;" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="chamodsnethmina" height="50" width="50" /></a>
 </p>
 
 
