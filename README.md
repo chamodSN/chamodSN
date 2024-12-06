@@ -23,7 +23,7 @@
 
 <br>
 
-<!--
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -40,7 +40,7 @@
   </td>
 </tr>
 </table>
--->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamodsn&label=Profile%20views&color=0e75b6&style=flat" alt="chamodsn" /> </p>
 
 <br>
